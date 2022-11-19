@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center"
-  },
+  }/*,
   descriptionText: {
     fontFamily: "Bubblegum-Sans",
     fontSize: 13,
@@ -78,5 +78,5 @@ const styles = StyleSheet.create({
     fontFamily: "Bubblegum-Sans",
     fontSize: RFValue(25),
     marginLeft: RFValue(5)
-  }
+  }*/
 });
